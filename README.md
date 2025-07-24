@@ -7,6 +7,13 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pannavira/Pannavira/output/pacman-contribution-graph.svg">
 </picture>
 
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Pannavira&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **Pannavira/Pannavira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
