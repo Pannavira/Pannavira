@@ -16,8 +16,21 @@ I enjoy building impactful projects that combine **creativity, technology, and p
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/pannavira/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:work.pannavira@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/pannavira/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="mailto:work.pannavira@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  <a href="https://pannavira.github.io">
+    <img src="https://skillicons.dev/icons?i=wordpress" height="40" />
+  </a>
+</p>
+
+<p align="center">
+  🌐 <a href="https://pannavira.github.io">Portfolio Website</a> – Showcasing my projects & skills  
+  💼 <a href="https://www.linkedin.com/in/pannavira/">LinkedIn</a> – Let’s connect professionally  
+  📧 <a href="mailto:work.pannavira@gmail.com">Email</a> – For collaboration or opportunities  
 </p>
 
 ---
@@ -33,19 +46,3 @@ I enjoy building impactful projects that combine **creativity, technology, and p
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pannavira&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**Pannavira/Pannavira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
