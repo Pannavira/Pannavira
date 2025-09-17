@@ -8,7 +8,16 @@ I enjoy building impactful projects that combine **creativity, technology, and p
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,laravel,nodejs,mongodb,mysql,python,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,laravel,nodejs,mongodb,mysql,python,git,github" />
+</p>
+
+---
+
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/pannavira/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:work.pannavira@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
