@@ -1,5 +1,10 @@
-## Hi there 👋
+# Hi there, I'm Wira 👋
 
+Welcome to my GitHub profile! 🚀  
+I'm an **Informatics Engineering student** at Universitas Buddhi Dharma, passionate about **web development, data science, and AI/ML projects**.  
+I enjoy building impactful projects that combine **creativity, technology, and problem-solving**.  
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pannavira/Pannavira/output/pacman-contribution-graph-dark.svg">
