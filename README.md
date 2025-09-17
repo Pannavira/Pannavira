@@ -6,6 +6,13 @@ I enjoy building impactful projects that combine **creativity, technology, and p
 
 ---
 
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,laravel,nodejs,mongodb,mysql,python,git,github,docker" />
+</p>
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pannavira/Pannavira/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pannavira/Pannavira/output/pacman-contribution-graph.svg">
